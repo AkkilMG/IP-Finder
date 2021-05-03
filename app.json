@@ -1,0 +1,21 @@
+{
+    "name": "IP Finder",
+    "description": "Python Flask app to get the user IP address with some more details in your Telegram chat box.",
+    "repository": "https://github.com/HeimanPictures/IP-Details",
+    "logo": "https://telegra.ph/file/ea3e98aff953e30f2bada.jpg",
+    "keywords": ["Python", "Flask", "TG", "Telegram", "API", "IP", "Scrap", "Redirect"],
+    "env": {
+        "OWNER_ID": {
+          "description": "Enter your Telegram user id.",
+          "value": "1478534845"
+        },
+        "BOT_API": {
+          "description": "Enter your Bot API which you got from @botfather",
+          "value": ""
+        },
+        "REDIRECT_URL": {
+          "description": "Enter the URL which you want the user to redirect in. ( Use https:// or https:// else won't work )",
+          "value": "http://www.github.com/HeimanPictures/IP-Details"
+        }
+      }
+  }
