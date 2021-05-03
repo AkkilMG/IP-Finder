@@ -47,7 +47,7 @@ Don't abuse it, It's just for fun and educational purpose.
 ### Deployments :-	
 
 ### Heroku :-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HeimanPictures/IP-Details)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HeimanPictures/IP-Finder)
 
 
 <details>
@@ -80,7 +80,6 @@ Don't abuse it, It's just for fun and educational purpose.
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
-```The GNU General Public License (GNU GPL or simply GPL) is a series of widely-used free software licenses that guarantee end users the freedom to run, study, share, and modify the software.[8] The licenses were originally written by Richard Stallman, founder of the Free Software Foundation (FSF), for the GNU Project, and grant the recipients of a computer program the rights of the Free Software Definition.[9] The GPL series are all copyleft licenses, which means that any derivative work must be distributed under the same or equivalent license terms. This is in distinction to permissive software licenses, of which the BSD licenses and the MIT License are widely used, less restrictive examples. GPL was the first copyleft license for general use.```
 
 ## Credits 
 
